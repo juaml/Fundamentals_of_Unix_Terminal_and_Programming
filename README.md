@@ -22,6 +22,7 @@ This course is your **course** in modern computational tools! By the end, you’
 
 🔗 **Full Program:** [Google Doc](https://docs.google.com/document/d/1EJHDE9oWXXjFjfOhiAn__N5XM_V7BogcY6krGb8Sf9M/edit?usp=sharing)  
 📂 **Slides & Materials:** [OneDrive](https://1drv.ms/f/s!AheL7mhMU4mLg-gLSFqaBT1buPs9nw?e=lVjXBL)  
+📂 **Alternative link to the slides:** [GDrive](https://drive.google.com/drive/folders/1A7APvwYOYR9QS1UamyP_kwV_prwy4DlP?usp=drive_link)  
 
 ---
 
